@@ -1,2 +1,2 @@
-# albion-bot
+# created by altay
 albion online fishing bot 
