@@ -1,2 +1,3 @@
-# created by altay
-albion online fishing bot 
+# Fishing Bot
+
+Simple animation detection with opencv.
